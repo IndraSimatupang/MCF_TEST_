@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MCF_TEST\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\models\\msstoragelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\msstoragelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\models\\trbpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\trbpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\models\\msuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\msuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|c:\\mcf_test\\webapi\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97B2A2B8-9A96-46ED-A6A2-8C69ED3D5951}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:01:38.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T04:58:35.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "WebApi\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:43:58.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BpkbController.cs",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\Controllers\\BpkbController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BpkbController.cs",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\Controllers\\BpkbController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BpkbController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:07:09.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:57:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\DbContext.cs",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\DbContext.cs",
+              "RelativeToolTip": "WebApi\\Models\\DbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwBkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:28:32.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrBpkb.cs",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\TrBpkb.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\TrBpkb.cs",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\TrBpkb.cs",
+              "RelativeToolTip": "WebApi\\Models\\TrBpkb.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA4wDAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:27:01.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MsUser.cs",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\MsUser.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\MsUser.cs",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\MsUser.cs",
+              "RelativeToolTip": "WebApi\\Models\\MsUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:26:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MsStorageLocation.cs",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\MsStorageLocation.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\MsStorageLocation.cs",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\Models\\MsStorageLocation.cs",
+              "RelativeToolTip": "WebApi\\Models\\MsStorageLocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:26:53.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MCF_TEST\\WebApi\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\MCF_TEST\\WebApi\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T03:21:56.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

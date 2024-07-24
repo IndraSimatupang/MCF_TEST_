@@ -1,0 +1,45 @@
+﻿@* @model List<WebApp.Models.TrBpkb>
+
+<h1>Bpkb List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model[0].AgreementNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model[0].Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model[0].Amount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AgreementNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.AgreementNumber">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.AgreementNumber">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+ *@
